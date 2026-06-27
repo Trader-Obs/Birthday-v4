@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', () => {
         step5: document.getElementById('step5'),
     };
 
-    const messageGreeting = "Happy Birthday,";
+    const messageGreeting = "Happy Belated Birthday,";
     const totalSlides = 5; // slides 0–4
     let currentSlide = 0;
 
